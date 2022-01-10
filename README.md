@@ -1,5 +1,5 @@
 # Homework-3
-IFT 3rd Homework!
+[IFT 6512](https://admission.umontreal.ca/cours-et-horaires/cours/ift-6512/) 3rd Homework!
 The d3.pdf contains the original homework question!
 
 The notebook3.ipynb contains the LR model
