@@ -1,4 +1,4 @@
 # IFT 6512: Stochastic Programming
-This [repository](https://github.com/devCharaf/IFT-6512) contains our solutions to [IFT 6512](https://admission.umontreal.ca/cours-et-horaires/cours/ift-6512/) Homeworks! It's a Stochastic Programming course
+This [repository](https://github.com/devCharaf/IFT-6512) contains our solutions to [IFT 6512](http://mitliagkas.github.io/ift6390-ml-class/) Homeworks! It's a Stochastic Programming course
 
-* 3 Homeworks in total + a final project.
+* 3 Homeworks in total + a [Kaggle Competition](https://www.kaggle.com/competitions/electricity-time-series-dataset-ml-winter-2022).
